@@ -183,8 +183,7 @@ docker-compose up -d
 
 1. Check [README.md](README.md) for overview
 2. See [backend/STARTUP.md](backend/STARTUP.md) for detailed setup
-3. Access API docs at http://localhost:8000/docs
-4. Check logs at `backend/logs/meditrack.log`
+3. Check logs at `backend/logs/meditrack.log`
 
 ---
 
